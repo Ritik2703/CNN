@@ -4,8 +4,11 @@
 # Tutorials - https://www.tensorflow.org/tutorials/images/cnn
 #             https://missinglink.ai/guides/neural-network-concepts/convolutional-neural-network-build-one-keras-pytorch/
 #             https://www.geeksforgeeks.org/introduction-convolution-neural-network/
-             
+#             https://machinelearningmastery.com/keras-functional-api-deep-learning/
+
 # Blog - https://towardsdatascience.com/covolutional-neural-network-cb0883dd6529
+
+![cnnn](https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2017/10/convolutional_neural_network.png)
 
 ![cnn](https://serving.photos.photobox.com/79977386b6c4c5ac1e2ee6e1e5bdd39462462bfd70bfc0acd2af368667960f2f6297eda7.jpg)
 
@@ -24,8 +27,9 @@
 
 
 # Flattening - https://www.superdatascience.com/blogs/convolutional-neural-networks-cnn-step-3-flattening
+#              https://missinglink.ai/guides/keras/using-keras-flatten-operation-cnn-models-code-examples/
 
-![flt](https://missinglink.ai/guides/keras/using-keras-flatten-operation-cnn-models-code-examples/)
+
 ![flt2](https://missinglink.ai/wp-content/uploads/2019/04/Group-5.png)
 
 # full connection
