@@ -7,7 +7,7 @@
              
 # Blog - https://towardsdatascience.com/covolutional-neural-network-cb0883dd6529
 
-![cnn](https://www.photobox.co.uk/my/photo/full?photo_id=503224089486)
+![cnn](https://serving.photos.photobox.com/79977386b6c4c5ac1e2ee6e1e5bdd39462462bfd70bfc0acd2af368667960f2f6297eda7.jpg)
 # Convolution
 
 # Pooling
