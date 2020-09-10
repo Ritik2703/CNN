@@ -8,15 +8,29 @@
 # Blog - https://towardsdatascience.com/covolutional-neural-network-cb0883dd6529
 
 ![cnn](https://serving.photos.photobox.com/79977386b6c4c5ac1e2ee6e1e5bdd39462462bfd70bfc0acd2af368667960f2f6297eda7.jpg)
-# Convolution
 
-# Pooling
+![co](https://media.geeksforgeeks.org/wp-content/uploads/neural_net2-300x147.jpeg)
 
-# Flattening
+# Convolution - https://medium.com/@bdhuma/6-basic-things-to-know-about-convolution-daef5e1bc411
+
+![cn](https://miro.medium.com/max/580/0*e-SMFTzO8r7skkpc)
+![cn2](https://media.geeksforgeeks.org/wp-content/uploads/cnn-2-300x133.jpg)
+![cn3](https://media.geeksforgeeks.org/wp-content/uploads/Screenshot-from-2017-08-15-13-55-59-300x217.png)
+
+# Pooling - https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/
+
+![pl](https://media.geeksforgeeks.org/wp-content/uploads/Screenshot-from-2017-08-15-17-04-02.png)
+![pl](https://qphs.fs.quoracdn.net/main-qimg-40cdeb3b43594f4b1b1b6e2c137e80b7.webp)
+
+
+# Flattening - https://www.superdatascience.com/blogs/convolutional-neural-networks-cnn-step-3-flattening
+
+![flt](https://missinglink.ai/guides/keras/using-keras-flatten-operation-cnn-models-code-examples/)
+![flt2](https://missinglink.ai/wp-content/uploads/2019/04/Group-5.png)
 
 # full connection
 
-
+![fc](https://media.geeksforgeeks.org/wp-content/uploads/Screenshot-from-2017-08-15-17-22-40.png)
 
 ```
 # Convolutional Neural Network
